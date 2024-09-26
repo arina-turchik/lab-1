@@ -51,3 +51,7 @@ return 0;
 ## Скриншоты результата работы
 <image src = diagram.png alt="блок-схема">
 <image src = "result screenshot.png" alt="вывод кода">
+
+## Источники:
+[Markdown](https://doka.guide/tools/markdown/)  
+[Evil-teacher](https://evil-teacher.on.fleek.co/prog_pm/term1/lab01/)
